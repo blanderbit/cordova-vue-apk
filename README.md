@@ -1,4 +1,19 @@
-# Zeke
+```
+  git clone 
+  cd cordova-vue-apk
+  npm install
+  sudo apt install openjdk-8-jdk
+  sudo apt install openjdk-11-jre-headless
+  sudo apt-add-repository ppa:maarten-fonville/android-studio
+  sudo apt-get update
+  sudo apt-get install android-studi
+  sudo apt-get install android-studio-preview
+  npm install -g cordova
+  cordova platform add android
+  export ANDROID_HOME=~/Android/Sdk/
+  sudo apt install gradle* || 5.3
+  npm run build && cordova run android --device
+```
 
 #### INSTAll
 
