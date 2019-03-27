@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 53163d163a2fdf0407ec48d78b911d02c685e5e9 serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542616287 +0200	commit (initial): first commit
+53163d163a2fdf0407ec48d78b911d02c685e5e9 e495d6557fce47bc20f93114b57abceb464c36d2 serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542618830 +0200	commit: update menu
+e495d6557fce47bc20f93114b57abceb464c36d2 b92582cf1c0b89fd7466d3b5ccb9a57606ebd404 serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542628812 +0200	commit: changes was readme
+b92582cf1c0b89fd7466d3b5ccb9a57606ebd404 1a8ea565713a5c01bc5c130ba8484d79c2d6f9cd serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542628828 +0200	commit: key uploaded
+1a8ea565713a5c01bc5c130ba8484d79c2d6f9cd 8edb9fb8da2ff1625029375b6e692762545392ed serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542628857 +0200	commit: update was android icons
+8edb9fb8da2ff1625029375b6e692762545392ed 8572ebd6acd39a5315ef36f723d888e456618620 serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542628880 +0200	commit: build:prod
+8572ebd6acd39a5315ef36f723d888e456618620 c671aaa677b886d9cd595bc88366e313b384277c serhiyosetskiy <serhiy.osetskiy@qbex.io> 1542628979 +0200	commit: update index.html
+c671aaa677b886d9cd595bc88366e313b384277c 52a262fc1dcd8187b1d4f783511c1466c5964fee serhiyosetskiy <serhiy.osetskiy@qbex.io> 1543844590 +0200	commit: update icons
+52a262fc1dcd8187b1d4f783511c1466c5964fee ac7f5379d520fa711880cb7ec4b1e7ede7e93ce8 serhiyosetskiy <serhiy.osetskiy@qbex.io> 1543844603 +0200	pull: Merge made by the 'recursive' strategy.
+ac7f5379d520fa711880cb7ec4b1e7ede7e93ce8 2c559fede7a1ee710c744822e9482c1cc0f8b360 serhiyosetskiy <serhiy.osetskiy@qbex.io> 1543845532 +0200	commit: update config
