@@ -11,7 +11,7 @@
   npm install -g cordova
   cordova platform add android
   export ANDROID_HOME=~/Android/Sdk/
-  sudo apt install gradle* || 5.3
+  sudo apt install gradle* || 5.0
   npm run build && cordova run android --device
 ```
 
